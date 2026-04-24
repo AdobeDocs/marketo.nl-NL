@@ -31,4 +31,4 @@ De regels van de erkenning bepalen hoe vaak iemand door de stroom in een Slimme 
    >
    >* Wanneer u een regel instelt voor één keer per dag, zet Marketo dat om in uren. Als je bijvoorbeeld de regel één keer per dag instelt en een persoon op een zondagnacht om 10.00 uur in aanmerking komt, kan hij niet opnieuw in aanmerking komen tot maandag 10.00 uur. Deze logica is ook van toepassing bij het gebruik van weken of maanden. Een maand wordt altijd geteld als 30 dagen.
    >
-   >* Communicatie grenzen worden niet toegepast op Slimme Campagnes door gebrek. Leer hoe te [ communicatielimieten op een Slimme Campagne ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md){target="_blank"} toepassen.
+   >* Communicatie grenzen worden niet toegepast op Slimme Campagnes door gebrek. Leer hoe te [&#x200B; communicatielimieten op een Slimme Campagne &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md){target="_blank"} toepassen.
