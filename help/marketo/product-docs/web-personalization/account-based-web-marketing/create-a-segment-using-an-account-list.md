@@ -4,10 +4,10 @@ description: Leer hoe u een segment maakt met een accountlijst in Marketo Engage
 title: Een segment maken met een accountlijst
 exl-id: 73179ed9-2f9b-46df-abfa-6e8ebb645cc5
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 6638f4a24aac6cf828f443d17b896a9dec9bca16
 workflow-type: tm+mt
-source-wordcount: '166'
-ht-degree: 1%
+source-wordcount: '205'
+ht-degree: 0%
 
 ---
 
@@ -17,7 +17,11 @@ Hier is hoe te om een segment tot stand te brengen gebruikend een Lijst van de R
 
 >[!PREREQUISITES]
 >
->[&#x200B; creeer een Nieuwe Lijst van de Rekening &#x200B;](/help/marketo/product-docs/target-account-management/target/account-lists.md)
+>[ creeer een Nieuwe Lijst van de Rekening ](/help/marketo/product-docs/target-account-management/target/account-lists.md)
+
+>[!NOTE]
+>
+>De capaciteit om de Lijsten van de Rekening binnen Web Personalization te zien vereist een extra module genoemd &quot;Web ABM&quot;. Als u Accountlijsten niet als optie ziet, neemt u contact op met het Adobe-accountteam (uw accountmanager) voor hulp.
 
 1. Ga naar **[!UICONTROL Segments]** .
 
