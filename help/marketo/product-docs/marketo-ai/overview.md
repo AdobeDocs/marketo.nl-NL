@@ -2,13 +2,11 @@
 description: Ontdek de Marketo Engage AI-suite van agents die zijn ontworpen om marketingtaken zoals programma-QA, 'lead import', normalisatie van gegevens en nog veel meer te automatiseren.
 title: Marketo Engage AI - Overzicht
 beta: true
-hide: true
-hidefromtoc: true
 exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
-source-git-commit: 562442b6340d08aef492d4b3576c0d6b5f3d720d
+source-git-commit: 6a46070308e79bc3799b2da92962b5a3a2f73ce9
 workflow-type: tm+mt
-source-wordcount: '283'
-ht-degree: 1%
+source-wordcount: '284'
+ht-degree: 0%
 
 ---
 
@@ -28,7 +26,7 @@ Op uw Mijn scherm van Marketo, klik **bouwen met AI** tegel.
 
 De conversatie-interface biedt een reeks functies voor de agenda die zijn ontworpen om handmatige taken te automatiseren die de productiviteit aanzienlijk verbeteren.
 
-Klik **krijgen Begonnen** knoop in het gebied van de dialoogherinnering (&quot;_begonnen met AI agenten..._&quot;is in de herinnering door gebrek).
+Klik **Begonnen** knoop in het gebied van de dialoogherinnering (&quot;_worden begonnen met AI agenten.._&quot;. is in de herinnering door gebrek).
 
 ![](assets/overview-2.png)
 
@@ -38,11 +36,11 @@ In de centrumconsole zijn er zeven functies van het Bureau om u met diverse take
 
 ### Programma-kwaliteitscontrole {#program-qa}
 
-Valideer Marketo Engage-programma&#39;s op basis van best practices en vul eventuele problemen in voordat u ze start. [Meer informatie](/help/marketo/product-docs/marketo-ai/agents/program-qa.md){target="_blank"}
+Valideer Marketo Engage-programma&#39;s op basis van best practices en vul eventuele problemen in voordat u ze start. [ Leer meer ](/help/marketo/product-docs/marketo-ai/agents/program-qa.md){target="_blank"}
 
 ### Importleads {#import-leads}
 
-U kunt lijsten met leads importeren en dedupliceren in uw Marketo Engage-database met ondersteuning voor veldtoewijzingen. [Meer informatie](/help/marketo/product-docs/marketo-ai/agents/import-leads.md){target="_blank"}
+U kunt lijsten met leads importeren en dedupliceren in uw Marketo Engage-database met ondersteuning voor veldtoewijzingen. [ Leer meer ](/help/marketo/product-docs/marketo-ai/agents/import-leads.md){target="_blank"}
 
 ### Lead onderzoeken (binnenkort beschikbaar) {#investigate-lead}
 
