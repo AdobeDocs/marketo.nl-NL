@@ -36,11 +36,11 @@ In de centrumconsole zijn er zeven functies van het Bureau om u met diverse take
 
 ### Programma-kwaliteitscontrole {#program-qa}
 
-Valideer Marketo Engage-programma&#39;s op basis van best practices en vul eventuele problemen in voordat u ze start. [ Leer meer ](/help/marketo/product-docs/marketo-ai/agents/program-qa.md){target="_blank"}
+Valideer Marketo Engage-programma&#39;s op basis van best practices en vul eventuele problemen in voordat u ze start. [&#x200B; Leer meer &#x200B;](/help/marketo/product-docs/marketo-ai/agents/program-qa.md){target="_blank"}
 
 ### Importleads {#import-leads}
 
-U kunt lijsten met leads importeren en dedupliceren in uw Marketo Engage-database met ondersteuning voor veldtoewijzingen. [ Leer meer ](/help/marketo/product-docs/marketo-ai/agents/import-leads.md){target="_blank"}
+U kunt lijsten met leads importeren en dedupliceren in uw Marketo Engage-database met ondersteuning voor veldtoewijzingen. [&#x200B; Leer meer &#x200B;](/help/marketo/product-docs/marketo-ai/agents/import-leads.md){target="_blank"}
 
 ### Lead onderzoeken (binnenkort beschikbaar) {#investigate-lead}
 

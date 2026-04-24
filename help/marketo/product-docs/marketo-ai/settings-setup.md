@@ -77,7 +77,7 @@ Volgt deze stappen om een specifieke gebruiker aan _toe te wijzen bouwen met AI 
 
 ### Aangepaste rol {#custom-role}
 
-U hebt ook de optie om een nieuwe rol ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} tot stand te brengen en zijn toestemmingen aan te passen, die _toegang bouwen met AI_, samen met om het even wat u wilt, en [ toewijzend die rol ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"} aan specifieke gebruikers.[
+U hebt ook de optie om een nieuwe rol [&#128279;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} tot stand te brengen en zijn toestemmingen aan te passen, die _toegang bouwen met AI_, samen met om het even wat u wilt, en [&#x200B; toewijzend die rol &#x200B;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"} aan specifieke gebruikers.
 
 ## Instellingen {#settings}
 
