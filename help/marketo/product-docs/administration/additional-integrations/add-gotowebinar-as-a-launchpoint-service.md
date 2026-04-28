@@ -4,9 +4,9 @@ description: Voeg  [!DNL GoToWebinar]  als dienst van LaunchPoint toe zodat behe
 title: Voeg  [!DNL GoToWebinar]  als a [!DNL LaunchPoint]  Dienst toe
 exl-id: ebc845df-68e6-408f-8d0f-0c56d7e4baa3
 feature: Administration, Integrations
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '134'
 ht-degree: 1%
 
 ---
@@ -31,7 +31,7 @@ Marketo beheert uw registratie en aanwezigheid van [!DNL GoToWebinar] .
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-1.png)
 
-1. Klik op **[!UICONTROL LaunchPoint]**.
+1. Klik op **[!UICONTROL LaunchPoint]** .
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-2.png)
 
@@ -43,7 +43,7 @@ Marketo beheert uw registratie en aanwezigheid van [!DNL GoToWebinar] .
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-4.png)
 
-1. Klik op **[!UICONTROL Log Into GoToWebinar]**.
+1. Klik op **[!UICONTROL Log Into GoToWebinar]** .
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-5.png)
 
@@ -59,7 +59,7 @@ Marketo beheert uw registratie en aanwezigheid van [!DNL GoToWebinar] .
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-7.png)
 
-1. Geweldig! Uw **[!UICONTROL GoToWebinar]** -account is nu gesynchroniseerd met Marketo.
+1. Uw **[!UICONTROL GoToWebinar]** -account is nu gesynchroniseerd met Marketo.
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-8.png)
 
@@ -69,4 +69,4 @@ Marketo beheert uw registratie en aanwezigheid van [!DNL GoToWebinar] .
 
 >[!MORELIKETHIS]
 >
->Leer hoe te om [&#x200B; een gebeurtenis met  [!DNL GotoWebinar]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md){target="_blank"} tot stand te brengen.
+>Leer hoe te om [ een gebeurtenis met  [!DNL GotoWebinar]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md){target="_blank"} tot stand te brengen.

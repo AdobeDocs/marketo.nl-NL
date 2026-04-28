@@ -4,9 +4,9 @@ description: Voeg Adobe Connect toe als een LaunchPoint-service, zodat Marketo d
 title: Voeg Adobe Connect als a [!DNL LaunchPoint]  Dienst toe
 exl-id: 21beb156-6674-46a8-bdc5-345fcb4bb272
 feature: Administration, Integrations
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Marketo beheert uw Adobe Connect-webinarregistratie en -aanwezigheid.
 
    ![](assets/add-adobe-connect-as-a-launchpoint-service-1.png)
 
-1. Klik op **[!UICONTROL LaunchPoint]**.
+1. Klik op **[!UICONTROL LaunchPoint]** .
 
    ![](assets/add-adobe-connect-as-a-launchpoint-service-2.png)
 
@@ -53,7 +53,7 @@ Marketo beheert uw Adobe Connect-webinarregistratie en -aanwezigheid.
 
    >[!TIP]
    >
-   >Wanneer u het deelnemerswachtwoord maakt, wordt de waarde die u kiest, opgenomen in een queryreeks wanneer de koppelingen voor de gebeurtenis worden verzonden. Daarom stellen wij voor dat u het klantvriendelijk maakt.
+   >Wanneer u het deelnemerswachtwoord maakt, wordt de waarde die u kiest, opgenomen in een queryreeks wanneer de koppelingen voor de gebeurtenis worden verzonden. Men adviseert dat u het klantvriendelijk maakt.
 
    >[!NOTE]
    >
@@ -65,4 +65,4 @@ Uw Adobe Connect-service is nu gesynchroniseerd met Marketo!
 
 >[!MORELIKETHIS]
 >
->Leer hoe te [&#x200B; een gebeurtenis met Adobe Connect &#x200B;](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md){target="_blank"} tot stand brengen.
+>Leer hoe te [ een gebeurtenis met Adobe Connect ](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md){target="_blank"} tot stand brengen.

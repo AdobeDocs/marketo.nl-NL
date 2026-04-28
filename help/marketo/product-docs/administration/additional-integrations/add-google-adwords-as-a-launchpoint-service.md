@@ -4,18 +4,18 @@ description: Verbinding  [!DNL Google AdWords]  aan Marketo via LaunchPoint om o
 title: Voeg  [!DNL Google AdWords]  als a [!DNL LaunchPoint]  Dienst toe
 exl-id: 993a057a-3f98-4a9f-a770-c9c80dedfd81
 feature: Administration, Integrations
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
 workflow-type: tm+mt
-source-wordcount: '258'
-ht-degree: 2%
+source-wordcount: '264'
+ht-degree: 0%
 
 ---
 
 # [!DNL Google AdWords] toevoegen als een [!DNL LaunchPoint] -service {#add-google-adwords-as-a-launchpoint-service}
 
-Koppel uw [!DNL Google AdWords] -account aan Marketo om automatisch offline conversiegegevens te uploaden van Marketo naar [!DNL Google AdWords] . Dan, van [!DNL AdWords] UI, zult u gemakkelijk kunnen zien welke kliks in gekwalificeerde lood, kansen, en nieuwe klanten (of welke opbrengststadia resulteerden u) wilt volgen nadat u [&#x200B; douanekolommen &#x200B;](https://support.google.com/adwords/answer/3073556){target="_blank"} in [!DNL AdWords] toevoegt. Deze informatie wordt niet weergegeven in de gebruikersinterface van Marketo.
+Koppel uw [!DNL Google AdWords] -account aan Marketo om automatisch offline conversiegegevens te uploaden van Marketo naar [!DNL Google AdWords] . Dan, van [!DNL AdWords] UI, kunt u zien welke kliks in gekwalificeerde lood, kansen, en nieuwe klanten (of welke omzetstadia resulteerden u) wilt volgen nadat u [ douanekolommen ](https://support.google.com/adwords/answer/3073556){target="_blank"} in [!DNL AdWords] toevoegt. Deze informatie wordt niet weergegeven in de gebruikersinterface van Marketo.
 
-Leer meer over [&#x200B; de off-line omzettingsde invoereigenschap van Google &#x200B;](https://support.google.com/adwords/answer/2998031?hl=en){target="_blank"}.
+Leer meer over [ de off-line omzettingsde invoereigenschap van Google ](https://support.google.com/adwords/answer/2998031?hl=en){target="_blank"}.
 
 >[!AVAILABILITY]
 >
@@ -27,13 +27,13 @@ Leer meer over [&#x200B; de off-line omzettingsde invoereigenschap van Google &#
 
 >[!NOTE]
 >
->U kunt a [[!DNL Google AdWords]  als dienst van a  [!DNL Launchpoint]  met een managerrekening &#x200B;](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md){target="_blank"} ook integreren.
+>U kunt a [[!DNL Google AdWords]  als dienst van a  [!DNL Launchpoint]  met een managerrekening ](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md){target="_blank"} ook integreren.
 
 1. Ga naar het **[!UICONTROL Admin]** -gebied.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-1.png)
 
-1. Selecteer **[!UICONTROL LaunchPoint]**.
+1. Selecteer **[!UICONTROL LaunchPoint]** .
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-2.png)
 
@@ -45,7 +45,7 @@ Leer meer over [&#x200B; de off-line omzettingsde invoereigenschap van Google &#
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-4.png)
 
-1. Selecteer **[!UICONTROL Authorize Marketo]**.
+1. Selecteer **[!UICONTROL Authorize Marketo]** .
 
    >[!NOTE]
    >
@@ -57,11 +57,11 @@ Leer meer over [&#x200B; de off-line omzettingsde invoereigenschap van Google &#
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-6.png)
 
-1. Selecteer **[!UICONTROL Accept]**.
+1. Selecteer **[!UICONTROL Accept]** .
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-7.png)
 
-1. De status wordt weergegeven als **[!UICONTROL Success]** . Selecteer **[!UICONTROL Next]**.
+1. Status wordt weergegeven als **[!UICONTROL Success]** . Selecteer **[!UICONTROL Next]** .
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-8.png)
 
@@ -82,16 +82,16 @@ Leer meer over [&#x200B; de off-line omzettingsde invoereigenschap van Google &#
    >
    >Het gebruik van een consistent toewijzingsmodel in Marketo en [!DNL AdWords] biedt de meest nauwkeurige gegevens.
 
-1. Klik op **[!UICONTROL Create]**.
+1. Klik op **[!UICONTROL Create]** .
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-11.png)
 
    >[!NOTE]
    >
-   >[&#x200B; auto-etiketterend &#x200B;](https://support.google.com/adwords/answer/1752125?hl=en){target="_blank"} moet voor deze eigenschap worden geselecteerd om te werken. Deactivering moet plaatsvinden binnen [!DNL AdWords] .
+   >[ auto-etiketterend ](https://support.google.com/adwords/answer/1752125?hl=en){target="_blank"} moet voor deze eigenschap worden geselecteerd om te werken. Deactivering moet plaatsvinden binnen [!DNL AdWords] .
 
-Geweldig! Zie nu het verwante artikel hieronder voor informatie over het toewijzen van [!DNL AdWords] offline conversies in uw inkomstenmodel.
+Zie het verwante artikel hieronder voor informatie over het toewijzen van [!DNL AdWords] offline conversies in uw inkomstenmodel.
 
 >[!MORELIKETHIS]
 >
->[&#x200B; Reeks  [!DNL Google AdWords]  Omzettingen in het Model van de Opbrengst &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md){target="_blank"}
+>[ Reeks  [!DNL Google AdWords]  Omzettingen in het Model van de Opbrengst ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md){target="_blank"}

@@ -4,9 +4,9 @@ description: Beperk API toegang tot specifieke IP adressen of waaiers via de Bep
 title: Creeer een Lijst van gewenste personen voor IP-Gebaseerde Toegang API
 exl-id: 1a2f2216-07ee-4d37-b883-458ea39fc452
 feature: Administration
-source-git-commit: d0c8f8d5dda0747a83e4a76004863c650998c75f
+source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '161'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,7 @@ Soms wilt u API-toegang alleen verlenen aan een specifiek IP-adres of een reeks 
 
 >[!CAUTION]
 >
->Het toelaten van deze eigenschap verhindert u tot de [&#x200B; Server MCP van Marketo &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/mcp-server){target="_blank"} op dit ogenblik toegang te hebben. Dit wordt in een volgende release opgelost.
+>Het toelaten van deze eigenschap verhindert u tot de [ Server MCP van Marketo ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server){target="_blank"} op dit ogenblik toegang te hebben. Dit probleem zal naar verwachting in een komende release worden opgelost.
 
 1. Ga naar het **[!UICONTROL Admin]** -gebied.
 

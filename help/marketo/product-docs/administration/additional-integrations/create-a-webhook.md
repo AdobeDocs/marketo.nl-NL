@@ -4,9 +4,9 @@ description: Creeer een webhaak in Admin om de diensten van het derdeWeb voor SM
 title: Maken a [!DNL Webhook]
 exl-id: 3e753d2d-6f33-4987-884e-8e13167cf3df
 feature: Administration, Webhooks
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '202'
 ht-degree: 1%
 
 ---
@@ -19,11 +19,11 @@ Gebruik [!DNL Webhooks] om gebruik te maken van externe webservices voor het ver
 
    ![](assets/create-a-webhook-1.png)
 
-1. Klik op **[!UICONTROL Webhooks]**.
+1. Klik op **[!UICONTROL Webhooks]** .
 
    ![](assets/create-a-webhook-2.png)
 
-1. Klik op **[!UICONTROL New Webhook]**.
+1. Klik op **[!UICONTROL New Webhook]** .
 
    ![](assets/create-a-webhook-3.png)
 
@@ -45,10 +45,10 @@ Gebruik [!DNL Webhooks] om gebruik te maken van externe webservices voor het ver
 
    * **[!UICONTROL Request Type]**: selecteer de te gebruiken HTTP-methode (DELETE, GET, PATCH, POST, PUT).
 
-1. Klik op **[!UICONTROL Create]**.
+1. Klik op **[!UICONTROL Create]** .
 
    ![](assets/create-a-webhook-5.png)
 
 >[!NOTE]
 >
->Leer meer in de [[!DNL Webhooks] &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"} diepe duik.
+>Leer meer in de [[!DNL Webhooks] ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"} diepe duik.

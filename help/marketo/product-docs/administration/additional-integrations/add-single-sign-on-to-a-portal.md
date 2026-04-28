@@ -4,20 +4,20 @@ description: Schakel SAML 2.0 Single Sign-On in zodat uw identiteitsprovider geb
 title: Eén aanmelding toevoegen aan een portal
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: b29fba0718fda60c6369c398b2b1497d44f91782
+source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
 workflow-type: tm+mt
-source-wordcount: '573'
+source-wordcount: '620'
 ht-degree: 0%
 
 ---
 
 # Eén aanmelding toevoegen aan een portal {#add-single-sign-on-to-a-portal}
 
-Als u een directoryservice hebt waarmee gebruikers worden geverifieerd, kunt u SSO (Single Sign-On) in Marketo toestaan. Deze functie wordt ondersteund met [!DNL Security Assertion Markup Language] (SAML) versie 2.0 en hoger.
+Als u een directoryservice hebt waarmee gebruikers worden geverifieerd, kunt u SSO (Single Sign-On) in Marketo toestaan. Marketo ondersteunt deze functie met gebruik van [!DNL Security Assertion Markup Language] (SAML) versie 2.0 en hoger.
 
 Marketo functioneert als SAML Service Provider (SP) en is afhankelijk van een externe identiteitsprovider (IdP) om gebruikers te verifiëren.
 
-Zodra SSO wordt toegelaten, kan IdP de geloofsbrieven van een gebruiker bevestigen. Wanneer een gebruiker de software van Marketo wenst te gebruiken, verzendt IdP dan een ondertekend bericht van SAML naar Marketo, handelend als SP. Dit bericht vouwt aan Marketo dat de gebruiker wordt gemachtigd om de software van Marketo te gebruiken.
+Zodra SSO wordt toegelaten, kan IdP de geloofsbrieven van een gebruiker bevestigen. Wanneer een gebruiker de software van Marketo wenst te gebruiken, verzendt IdP dan een ondertekend bericht van SAML naar Marketo, handelend als SP. Dit bericht bevestigt Marketo dat de gebruiker gemachtigd is om Marketo-software te gebruiken.
 
 >[!NOTE]
 >
@@ -25,11 +25,11 @@ Zodra SSO wordt toegelaten, kan IdP de geloofsbrieven van een gebruiker bevestig
 
 >[!IMPORTANT]
 >
->Dit is **niet** van toepassing op abonnementen die aan de Identiteit van Adobe worden ingezien. Er kunnen vorige instellingen worden weergegeven (van vóór de IMS-migratie), maar deze zijn niet meer van toepassing. Voor abonnementen op Adobe Identity wordt Single Sign On ingesteld op Adobe Org-niveau in Adobe Admin Console. [&#x200B; leer hier meer &#x200B;](https://helpx.adobe.com/nl/enterprise/using/set-up-identity.html){target="_blank"}.
+>Dit is **niet** van toepassing op abonnementen die aan de Identiteit van Adobe worden ingezien. Er kunnen vorige instellingen worden weergegeven (van vóór de IMS-migratie), maar deze zijn niet meer van toepassing. Voor abonnementen op Adobe Identiteit worden ingezien, [ Enige Sign On opstelling ](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"} op het Adobe Org niveau in Adobe Admin Console.
 
 >[!NOTE]
 >
->Bent u een [!DNL Microsoft Azure] gebruiker? Controle uit hun [&#x200B; integratieleerprogramma &#x200B;](https://learn.microsoft.com/en-us/entra/identity/saas-apps/marketo-tutorial){target="_blank"}. FYI, er is een typefout in Stap 5c van hun zelfstudie. Gelieve te plaatsen de Staat van het Relais aan `https://<munchkinid>.mktoweb.com`, **_niet_** `https://<munchkinid>.marketo.com`.
+>Bent u een [!DNL Microsoft Azure] gebruiker? Controle uit hun [ integratieleerprogramma ](https://learn.microsoft.com/en-us/entra/identity/saas-apps/marketo-tutorial){target="_blank"}. Merk op dat er een typefout in Stap 5c van hun leerprogramma is. Plaats de Staat van het Relais aan `https://<munchkinid>.mktoweb.com`, **_niet_** `https://<munchkinid>.marketo.com`.
 
 ## Hoe te om het Verzoek te verzenden {#how-to-send-the-request}
 
@@ -48,7 +48,7 @@ Zodra SSO wordt toegelaten, kan IdP de geloofsbrieven van een gebruiker bevestig
 * **Levering van de Gebruiker** - de gebruikers worden provisioned manueel door Marketo.
 * **Vergunning** - de toestemmingen van de Gebruiker worden gehandhaafd binnen Marketo.
 * **OAuth steun** - Marketo steunt momenteel geen OAuth.
-* **Automatische die de Verspreiding van de Gebruiker** - ook als &quot;enkel in de Levering van de Tijd wordt bekend,&quot;dit is wanneer eerste login van SAML van een gebruiker in staat is om de gebruiker in om het even welke Webtoepassing tot stand te brengen zij toegang hebben (b.v., Marketo) en geen handadmin actie wordt vereist. Dit wordt momenteel niet ondersteund door Marketo.
+* **Automatische die de Verspreiding van de Gebruiker** - ook als &quot;enkel in de Levering van de Tijd wordt bekend,&quot;dit is wanneer eerste login van SAML van een gebruiker in staat is om de gebruiker in om het even welke Webtoepassing tot stand te brengen zij (bijvoorbeeld, Marketo) toegang hebben en geen handadmin actie wordt vereist. Dit wordt momenteel niet ondersteund door Marketo.
 * **Encryptie** - Marketo steunt momenteel geen encryptie.
 
 >[!NOTE]
@@ -69,7 +69,7 @@ SSO is standaard uitgeschakeld. Volg deze stappen om SAML toe te laten en het te
 
    >[!NOTE]
    >
-   >Als u niet **[!UICONTROL Single Sign-On]** onder **[!UICONTROL Admin]** ziet, contacteer [&#x200B; de Steun van Marketo &#x200B;](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
+   >Als u niet **[!UICONTROL Single Sign-On]** onder **[!UICONTROL Admin]** ziet, contacteer [ de Steun van Marketo ](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 
 1. Klik onder de sectie **[!UICONTROL SAML Settings]** op **[!UICONTROL Edit]** .
 
@@ -115,5 +115,5 @@ SSO is standaard uitgeschakeld. Volg deze stappen om SAML toe te laten en het te
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Beperk het Login van de Gebruiker tot SSO slechts &#x200B;](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md){target="_blank"}
->* [&#x200B; het Uitnodigen van de Gebruikers van Marketo aan Twee Instanties met Universele identiteitskaart &#x200B;](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122){target="_blank"}
+>* [ Beperk het Login van de Gebruiker tot SSO slechts ](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md){target="_blank"}
+>* [ het Uitnodigen van de Gebruikers van Marketo aan Twee Instanties met Universele identiteitskaart ](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122){target="_blank"}

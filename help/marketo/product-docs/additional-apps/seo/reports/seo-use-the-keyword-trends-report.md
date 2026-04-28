@@ -6,25 +6,25 @@ exl-id: 6c3e3c8e-f7ed-47d6-9de7-1680d23e5dd3
 hide: true
 hidefromtoc: true
 feature: SEO
-source-git-commit: c669a10a65409205eb749ab9ee6b35a4b14c73c5
+source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '264'
 ht-degree: 0%
 
 ---
 
 # SEO - het Rapport van de Trends van het Sleutelwoord gebruiken {#seo-use-the-keyword-trends-report}
 
-In dit rapport kunt u zien hoe u in de loop der tijd op trefwoorden wordt gerangschikt.
+Zie hoe je trefwoorden in de loop der tijd staan.
 
 >[!IMPORTANT]
 >
->Op 31 Maart, 2026, verwierp Marketo Engage [&#x200B; de Optimalisering van de Motor van het Onderzoek &#x200B;](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"} eigenschap. [&#x200B; seo.marketo.com &#x200B;](https://seo.marketo.com/) is nog beschikbaar voor een beperkte tijd. Voer de stappen in de onderstaande artikelen uit om gegevens te exporteren.
+>Op 31 Maart, 2026, verwierp Marketo Engage [ de Optimalisering van de Motor van het Onderzoek ](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"} eigenschap. [ seo.marketo.com ](https://seo.marketo.com/) is nog beschikbaar voor een beperkte tijd. Voer de stappen in de onderstaande artikelen uit om gegevens te exporteren.
 >
->* [&#x200B; Uitvoer Kwesties &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
->* [&#x200B; Resultaten van het Trefwoord van de Uitvoer &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
->* [&#x200B; Trends van het Sleutelwoord van de Uitvoer &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
->* [&#x200B; Trends van het Sleutelwoord van de Concurrentie van de Uitvoer &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
+>* [ Uitvoer Kwesties ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [ Resultaten van het Trefwoord van de Uitvoer ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [ Trends van het Sleutelwoord van de Uitvoer ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [ Trends van het Sleutelwoord van de Concurrentie van de Uitvoer ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 ## Rapport laden {#load-report}
 
@@ -36,18 +36,16 @@ In dit rapport kunt u zien hoe u in de loop der tijd op trefwoorden wordt gerang
 
    ![](assets/image2014-9-18-14-3a13-3a14.png)
 
-   Hier is het:
-
    ![](assets/image2014-9-18-14-3a13-3a22.png)
 
-   Beschrijvende items rapporteren:
+   **Punten van het Rapport**
 
    | Item | Beschrijving |
    |---|---|
    | [!UICONTROL Keywords] | Het aantal trefwoorden dat u bijhoudt. |
    | [!UICONTROL Ranking URLs] | Het aantal URL&#39;s in de siterangschikking in het bereik dat u hebt ingesteld. |
    | [!UICONTROL Avg. rank] | De gemiddelde positie van trefwoorden in het bereik dat u hebt ingesteld. |
-   | [!UICONTROL Avg. searches] | Het gemiddelde aantal zoekopdrachten bij de trefwoorden die zijn opgetreden tijdens het bereik dat u instelt (in de laatste 30 dagen) bij de zoekactie in Google US |
+   | [!UICONTROL Avg. searches] | Het gemiddelde aantal zoekopdrachten voor de trefwoorden die zijn opgetreden tijdens het bereik dat u hebt ingesteld (in de laatste 30 dagen) bij de Google US-zoekopdracht |
 
 ## Gegevens filteren {#filtering-data}
 
@@ -55,7 +53,7 @@ In dit rapport kunt u zien hoe u in de loop der tijd op trefwoorden wordt gerang
 
    ![](assets/image2014-9-18-14-3a13-3a40.png)
 
-1. Klik op het keuzemenu Rank om te kiezen voor welk bereik u trefwoorden wilt weergeven.
+1. Klik op het keuzemenu Rank om te kiezen voor welk randenbereik u trefwoorden wilt weergeven.
 
    ![](assets/image2014-9-18-14-3a13-3a57.png)
 
