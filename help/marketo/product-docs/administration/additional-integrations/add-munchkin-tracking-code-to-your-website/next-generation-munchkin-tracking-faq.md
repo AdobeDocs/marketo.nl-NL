@@ -90,4 +90,4 @@ Bekijk de volgende koppelingen:
 
 ## Ik heb nog meer vragen! Hoe krijg ik antwoord? {#i-have-more-questions-how-do-i-get-them-answered}
 
-Bezoek de [ Gemeenschap van Marketo ](https://experienceleaguecommunities.adobe.com/){target="_blank"}. Je kunt ook contact opnemen met Marketo Support. Ze zijn blij uw vragen te beantwoorden.
+Bezoek de [&#x200B; Gemeenschap van Marketo &#x200B;](https://experienceleaguecommunities.adobe.com/){target="_blank"}. Je kunt ook contact opnemen met Marketo Support. Ze zijn blij uw vragen te beantwoorden.

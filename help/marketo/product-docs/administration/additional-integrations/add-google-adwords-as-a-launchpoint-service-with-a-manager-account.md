@@ -13,11 +13,11 @@ ht-degree: 1%
 
 # [!DNL Google AdWords] toevoegen als een [!DNL Launchpoint] -service met een beheerdersaccount {#add-google-adwords-as-a-launchpoint-service-with-a-manager-account}
 
-Koppel uw [!DNL Google AdWords] -account aan Marketo om automatisch offline conversiegegevens te uploaden van Marketo naar [!DNL Google AdWords] . Dan, van [!DNL AdWords] UI, kunt u zien welke kliks in gekwalificeerde lood, kansen, en nieuwe klanten (of welke omzetstadia resulteerden u) wilt volgen nadat u [ douanekolommen ](https://support.google.com/adwords/answer/3073556){target="_blank"} in [!DNL AdWords] toevoegt. Deze informatie wordt niet weergegeven in de gebruikersinterface van Marketo.
+Koppel uw [!DNL Google AdWords] -account aan Marketo om automatisch offline conversiegegevens te uploaden van Marketo naar [!DNL Google AdWords] . Dan, van [!DNL AdWords] UI, kunt u zien welke kliks in gekwalificeerde lood, kansen, en nieuwe klanten (of welke omzetstadia resulteerden u) wilt volgen nadat u [&#x200B; douanekolommen &#x200B;](https://support.google.com/adwords/answer/3073556){target="_blank"} in [!DNL AdWords] toevoegt. Deze informatie wordt niet weergegeven in de gebruikersinterface van Marketo.
 
-Als u meerdere [!DNL Google Adwords] -accounts hebt, kunt u een [[!DNL Google AdWords Manager Account] ](https://www.google.com/adwords/manager-accounts/){target="_blank"} (voorheen bekend als [!DNL My Client Center] ) gebruiken om deze te integreren met Marketo.
+Als u meerdere [!DNL Google Adwords] -accounts hebt, kunt u een [[!DNL Google AdWords Manager Account] &#x200B;](https://www.google.com/adwords/manager-accounts/){target="_blank"} (voorheen bekend als [!DNL My Client Center] ) gebruiken om deze te integreren met Marketo.
 
-Leer meer over [ de off-line omzettingsde invoereigenschap van Google ](https://support.google.com/adwords/answer/2998031?hl=en){target="_blank"}.
+Leer meer over [&#x200B; de off-line omzettingsde invoereigenschap van Google &#x200B;](https://support.google.com/adwords/answer/2998031?hl=en){target="_blank"}.
 
 >[!AVAILABILITY]
 >
@@ -29,7 +29,7 @@ Leer meer over [ de off-line omzettingsde invoereigenschap van Google ](https://
 
 >[!NOTE]
 >
->U kunt a [ stand-alone  [!DNL Google AdWords]  rekening als a  [!DNL Launchpoint]  dienst ](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md){target="_blank"} ook integreren.
+>U kunt a [&#x200B; stand-alone  [!DNL Google AdWords]  rekening als a  [!DNL Launchpoint]  dienst &#x200B;](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md){target="_blank"} ook integreren.
 
 1. Ga naar het **[!UICONTROL Admin]** -gebied.
 
@@ -82,7 +82,7 @@ Leer meer over [ de off-line omzettingsde invoereigenschap van Google ](https://
 
    >[!NOTE]
    >
-   >[ auto-etiketterend ](https://support.google.com/adwords/answer/1752125?hl=en){target="_blank"} moet voor deze eigenschap worden geselecteerd om te werken. Deze moet binnen [!DNL AdWords] worden geactiveerd.
+   >[&#x200B; auto-etiketterend &#x200B;](https://support.google.com/adwords/answer/1752125?hl=en){target="_blank"} moet voor deze eigenschap worden geselecteerd om te werken. Deze moet binnen [!DNL AdWords] worden geactiveerd.
 
 1. Klik op **[!UICONTROL Next]** .
 
@@ -96,4 +96,4 @@ Leer meer over [ de off-line omzettingsde invoereigenschap van Google ](https://
 
    >[!MORELIKETHIS]
    >
-   >[ Reeks  [!DNL Google AdWords]  Omzettingen in het Model van Inkomsten met een Rekening van de Manager ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md){target="_blank"}
+   >[&#x200B; Reeks  [!DNL Google AdWords]  Omzettingen in het Model van Inkomsten met een Rekening van de Manager &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md){target="_blank"}

@@ -65,4 +65,4 @@ Uw Adobe Connect-service is nu gesynchroniseerd met Marketo!
 
 >[!MORELIKETHIS]
 >
->Leer hoe te [ een gebeurtenis met Adobe Connect ](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md){target="_blank"} tot stand brengen.
+>Leer hoe te [&#x200B; een gebeurtenis met Adobe Connect &#x200B;](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md){target="_blank"} tot stand brengen.

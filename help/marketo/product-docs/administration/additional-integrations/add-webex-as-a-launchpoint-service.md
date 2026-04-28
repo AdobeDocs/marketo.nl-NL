@@ -13,7 +13,7 @@ ht-degree: 3%
 
 # [!DNL Webex] toevoegen als een [!DNL LaunchPoint] -service {#add-webex-as-a-launchpoint-service}
 
-Marketo Engage beheert uw [!DNL Webex] webinar-registratie en -aanwezigheid. U moet een bestaand abonnement op [[!UICONTROL Webex] hebben ](https://www.webex.com/).
+Marketo Engage beheert uw [!DNL Webex] webinar-registratie en -aanwezigheid. U moet een bestaand abonnement op [[!UICONTROL Webex] hebben &#x200B;](https://www.webex.com/).
 
 >[!NOTE]
 >
@@ -53,4 +53,4 @@ Uw **[!DNL Webex]** wordt nu gesynchroniseerd met Marketo.
 
 >[!MORELIKETHIS]
 >
->[ creeer een Gebeurtenis met  [!DNL Webex]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md){target="_blank"}.
+>[&#x200B; creeer een Gebeurtenis met  [!DNL Webex]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md){target="_blank"}.

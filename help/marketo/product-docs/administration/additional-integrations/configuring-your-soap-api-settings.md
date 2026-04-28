@@ -17,7 +17,7 @@ ht-degree: 1%
 
 >[!IMPORTANT]
 >
->SOAP API wordt [ afgekeurd ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api) op 31 Juli, 2026. Het wordt geadviseerd om [ REST API ](https://developer.adobe.com/marketo-apis/) in plaats daarvan te gebruiken.
+>SOAP API wordt [&#x200B; afgekeurd &#x200B;](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api) op 31 Juli, 2026. Het wordt geadviseerd om [&#x200B; REST API &#x200B;](https://developer.adobe.com/marketo-apis/) in plaats daarvan te gebruiken.
 
 >[!NOTE]
 >
