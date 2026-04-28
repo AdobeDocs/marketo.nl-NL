@@ -25,7 +25,7 @@ Zodra SSO wordt toegelaten, kan IdP de geloofsbrieven van een gebruiker bevestig
 
 >[!IMPORTANT]
 >
->Dit is **niet** van toepassing op abonnementen die aan de Identiteit van Adobe worden ingezien. Er kunnen vorige instellingen worden weergegeven (van vóór de IMS-migratie), maar deze zijn niet meer van toepassing. Voor abonnementen op Adobe Identiteit worden ingezien, [&#x200B; Enige Sign On opstelling &#x200B;](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"} op het Adobe Org niveau in Adobe Admin Console.
+>Dit is **niet** van toepassing op abonnementen die aan de Identiteit van Adobe worden ingezien. Er kunnen vorige instellingen worden weergegeven (van vóór de IMS-migratie), maar deze zijn niet meer van toepassing. Voor abonnementen op Adobe Identiteit worden ingezien, [&#x200B; Enige Sign On opstelling &#x200B;](https://helpx.adobe.com/nl/enterprise/using/set-up-identity.html){target="_blank"} op het Adobe Org niveau in Adobe Admin Console.
 
 >[!NOTE]
 >
